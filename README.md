@@ -1,3 +1,3 @@
 # test-repo
 
-A
+AB
